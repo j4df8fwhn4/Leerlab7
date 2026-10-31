@@ -1,0 +1,86 @@
+LeerLab 7 — versie 5
+
+PUBLICEREN OP JE BESTAANDE GITHUB PAGES-WEBSITE
+
+1. Pak LeerLab7_v5.zip uit.
+2. Open de bestaande leerlab7-repository op GitHub.
+3. Kies Add file > Upload files.
+4. Upload index.html uit dit pakket, op dezelfde plek als de huidige index.html.
+   Zet het bestand niet in een nieuwe submap en upload niet het ZIP-bestand zelf.
+5. Klik op Commit changes.
+6. Wacht tot GitHub Pages klaar is en vernieuw de bestaande website op de iPad.
+   Bovenaan moet v5 staan. De instellingen voor Pages hoeven niet te veranderen.
+
+Gebruik dezelfde webadresvariant (https, domeinnaam), dezelfde browser en hetzelfde
+browserprofiel als voorheen. Wis geen websitegegevens. De v4-resultaten worden dan
+automatisch ingelezen en blijven apart zichtbaar onder Voortgang.
+
+Het enige bestand dat de website nodig heeft is index.html. Het bevat alle code,
+vormgeving en oefeningen. LEESMIJ.txt hoef je niet te uploaden. Je kunt index.html
+op een laptop ook direct in een browser openen om te kijken. De resultaten van
+die lokale preview staan los van de resultaten op de gepubliceerde website.
+
+WAT IS NIEUW?
+
+- Drie vrij kiesbare werelden: Jungle, KATSEYE vibes (eigen popthema), Lekker gek.
+- Sterren voor oefenen en doorzetten; verdiende versieringen kiezen voor je startscherm.
+- 1.283 opgavevarianten, gegroepeerd in 811 oefenitems. Dit zijn niet 1.283 unieke
+  leerdoelen: meerdere varianten oefenen hetzelfde woord, dezelfde zin of dezelfde som.
+- De 247 eerdere opgaven zijn behouden.
+- Luchtwoorden, langer maken, trema, koppelteken, leenwoorden, werkwoordtijden,
+  persoonsvorm, onderwerp, werkwoordelijk gezegde en lijdend voorwerp.
+- Uitgebreidere rekenoefeningen, 24 leesopgaven en studievaardigheden.
+- Zelf typen, woorden aanklikken, categorie kiezen, verbeteren en luisterdictee.
+- Per vaardigheid een miniles en voorbeeld; na een eerste fout gerichte hulp en
+  een tweede poging. Waar beschikbaar volgt daarna een nieuwe toepassingsvraag.
+- Recente opdrachten krijgen minder voorrang. Binnen een ronde komen varianten
+  van hetzelfde gegroepeerde oefenitem niet dubbel voor.
+- Rondes van maximaal 12, 20 of 30 verschillende items. Bij een kleiner onderdeel
+  is de ronde korter. Extra toepassingsvragen kunnen de ronde langer maken.
+- Voortgang onderscheidt zelfstandig goed van hulp/tweede pogingen.
+- Reservekopie downloaden en herstellen via Voortgang.
+
+LEVELS
+
+De vier stappen zijn ontdekken, oefenen met hulp, zelf toepassen en later herhalen.
+Een hogere stap vraagt meerdere verschillende opdrachten en, vanaf stap 3,
+oefenen op meerdere dagen. Dit zijn LeerLab-oefenstappen, geen officiële school-
+of Cito-niveaus. M7/E7 bepaalt de voorkeur voor basis of extra uitdaging bij de
+vraagselectie; het is geen volledige, gekalibreerde methodeleerlijn.
+
+AFSTEMMING OP SCHOOL
+
+De inhoud sluit aan op de onderwerpen die jullie hebben doorgegeven. De exacte
+Staal-editie en de categoriekaart van school zijn nog niet bevestigd. De uitleg is
+zelfstandig geschreven en geen overgenomen officiële instructietekst.
+De 32 leenwoorden zijn een eigen oefenlijst, NIET de bevestigde lijst van 40 woorden
+van de meester. De schoollijst kan later worden toegevoegd.
+
+Voor de spelling van trema en koppelteken is onder andere geraadpleegd:
+https://www.vlaanderen.be/team-taaladvies/spellingregels/aaneenschrijven/aaneenschrijven-02-klinkerbotsing-koppelteken-of-trema
+
+GELUID EN OPSLAG
+
+Het dictee gebruikt de Nederlandse voorleesstem van het apparaat. Tik zelf op
+Luister en controleer het volume. Geen geluid? Gebruik de knop met tekstaanwijzing.
+De uitspraak kan per apparaat verschillen; er worden geen muziekbestanden geladen.
+
+Resultaten worden lokaal in de browser opgeslagen, niet op GitHub. Er zijn geen
+accounts, advertenties of analysescripts. Gegevens worden niet tussen apparaten
+gesynchroniseerd. De beschikbaarheid van systeemstemmen hangt af van het apparaat.
+Met Voortgang > Download voortgang kun je een reservekopie bewaren. Herstellen
+vervangt de huidige voortgang na bevestiging. Bij geblokkeerde opslag verschijnt
+een melding; oefenen blijft mogelijk, maar voortgang kan dan verloren gaan.
+
+CONTROLE
+
+Gecontroleerd: JavaScript-syntax, unieke vraag-id's, antwoordgegevens, nakijken,
+selectie zonder herhaling binnen rondes, vervolgvragen, afronding van een ronde,
+levels over meerdere dagen, v4-resultaten, opgeslagen v5-resultaten, validatie van
+reservekopieën en werking als lokale opslag niet beschikbaar is.
+
+In een browser getest: thema wisselen, klikbare zinsdelen, tekstinvoer, een fout
+verbeteren, dicteeknoppen, hulp zonder geluid en bewaren na vernieuwen.
+De schermweergave is bekeken op desktop- en iPad-formaat. Niet getest op een
+fysieke iPad of met jullie GitHub-account. Controleer na publicatie kort de
+voorleesstem en de zichtbaarheid van haar oude resultaten.
